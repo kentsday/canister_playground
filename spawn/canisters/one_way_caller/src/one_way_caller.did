@@ -1,0 +1,5 @@
+service : {
+    test_call_with_async : (principal, principal) -> ();
+    test_call_with_spawn : (principal, principal) -> ();
+    test_call_with_multiple_spawn : (principal) -> ();
+}

@@ -1,0 +1,1 @@
+dfx canister call one_way_caller test_call_with_multiple_spawn '(principal  "ryjl3-tyaaa-aaaaa-aaaba-cai")'
